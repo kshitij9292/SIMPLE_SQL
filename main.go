@@ -1332,7 +1332,6 @@ func getTokenTypeName(tokenType TokenType) string {
 }
 
 func main() {
-	fmt.Println("🗃️  Welcome to DBMS - Database Management System")
 	fmt.Println("Type 'help' for available commands or 'exit' to quit")
 	fmt.Println("=====================================================")
 
